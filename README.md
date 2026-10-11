@@ -5,11 +5,6 @@
     <td><img src="https://github.com/user-attachments/assets/c9d46db3-a56e-470c-815f-10d5e4d5a01c" height="250" alt="Screen 3"></td>
       <td><img src="https://github.com/user-attachments/assets/43816e38-7af2-4fde-a58e-c128050dd162" height="250" alt="Screen 3"></td>
   </tr>
-  <tr align="center">
-    <td><b>Halaman Login</b></td>
-    <td><b>Halaman Dashboard</b></td>
-    <td><b>Halaman Profil</b></td>
-  </tr>
 </table>
 
 # gumisasak
